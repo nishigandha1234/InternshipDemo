@@ -6,7 +6,7 @@ public class Calculator {
 
     public static int addition(int a, int b) {
         int ans = a + b;
-        return ans;  
+        return ans;  // new code    
     }
 
     public static int division(int a, int b) {
